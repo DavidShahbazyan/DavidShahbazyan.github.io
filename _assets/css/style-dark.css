@@ -1,0 +1,89 @@
+:root {
+    /* Reduce the font size */
+    /* --base-font-size: 14px; */
+
+    /* Change the theme color hue (0-360) */
+    /* --theme-hue: 325; */
+
+    /* Add sidebar navigation bullets */
+    /* --sidebar-nav-link-before-content-l1: "+"; */
+    /* --sidebar-nav-link-before-content-l2: "-"; */
+}
+
+img#avatar {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    max-width: 70%;
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.icn-linkedin:before {
+    content: '' !important;
+    display: inline-flex;
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    -webkit-mask: url(/_assets/img/linkedin_icon_filled.svg) no-repeat center;
+    -webkit-mask-size: 20px;
+    mask: url(/_assets/img/linkedin_icon_filled.svg) no-repeat center;
+    mask-size: 20px;
+    vertical-align: text-bottom;
+}
+
+.icn-envelop:before {
+    content: '' !important;
+    display: inline-flex;
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    -webkit-mask: url(/_assets/img/envelop_icon_filled.svg) no-repeat center;
+    -webkit-mask-size: 20px;
+    mask: url(/_assets/img/envelop_icon_filled.svg) no-repeat center;
+    mask-size: 20px;
+    vertical-align: text-bottom;
+}
+
+.icn-phone:before {
+    content: '' !important;
+    display: inline-flex;
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    -webkit-mask: url(/_assets/img/phone_icon_filled.svg) no-repeat center;
+    -webkit-mask-size: 20px;
+    mask: url(/_assets/img/phone_icon_filled.svg) no-repeat center;
+    mask-size: 20px;
+    vertical-align: text-bottom;
+}
+
+.icn-globe:before {
+    content: '' !important;
+    display: inline-flex;
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    -webkit-mask: url(/_assets/img/globe_icon_filled.svg) no-repeat center;
+    -webkit-mask-size: 20px;
+    mask: url(/_assets/img/globe_icon_filled.svg) no-repeat center;
+    mask-size: 20px;
+    vertical-align: text-bottom;
+}
+
+.icn-github:before {
+    content: '' !important;
+    display: inline-flex;
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    -webkit-mask: url(/_assets/img/github_icon_filled.svg) no-repeat center;
+    -webkit-mask-size: 20px;
+    mask: url(/_assets/img/github_icon_filled.svg) no-repeat center;
+    mask-size: 20px;
+    vertical-align: text-bottom;
+}

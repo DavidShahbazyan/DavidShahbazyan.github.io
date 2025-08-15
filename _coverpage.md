@@ -3,7 +3,7 @@
 <img id="avatar" src="/_assets/img/av.png" alt="avatar"/>
 
 # David Shahbazyan
->Welcome to my online CV page
+>Welcome to my space!
 
 [Linkedin](https://linkedin.com/in/david-shahbazyan)
 [GitHub](https://github.com/DavidShahbazyan)
